@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NomeDoProjeto", "NomeDoProj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmoothOperator", "SmoothOperator\SmoothOperator.csproj", "{3E76B2E7-CCAF-4A78-B2CC-A1496B7A3FEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariousOperators", "VariousOperators\VariousOperators.csproj", "{B78A361E-BAC8-4298-9D68-93D3E4926618}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{3E76B2E7-CCAF-4A78-B2CC-A1496B7A3FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E76B2E7-CCAF-4A78-B2CC-A1496B7A3FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E76B2E7-CCAF-4A78-B2CC-A1496B7A3FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78A361E-BAC8-4298-9D68-93D3E4926618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78A361E-BAC8-4298-9D68-93D3E4926618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78A361E-BAC8-4298-9D68-93D3E4926618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78A361E-BAC8-4298-9D68-93D3E4926618}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
